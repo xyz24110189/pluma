@@ -1,0 +1,185 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DIR	src/Pluma/uce-dirent.h	/^  typedef struct DIR {$/;"	s
+DIR	src/Pluma/uce-dirent.h	/^  } DIR;$/;"	t	typeref:struct:DIR
+DIRENT_H	src/Pluma/uce-dirent.h	82;"	d
+DIRENT_H_INCLUDED	src/Pluma/uce-dirent.h	83;"	d
+DIRENT_MAXNAMLEN	src/Pluma/uce-dirent.h	185;"	d
+DIRENT_MAXNAMLEN	src/Pluma/uce-dirent.h	197;"	d
+DIRENT_MAXNAMLEN	src/Pluma/uce-dirent.h	207;"	d
+DIRENT_MAXNAMLEN	src/Pluma/uce-dirent.h	214;"	d
+DIRENT_MAXNAMLEN	src/Pluma/uce-dirent.h	221;"	d
+DIRENT_MAXNAMLEN	src/Pluma/uce-dirent.h	223;"	d
+DIRENT_MSDOS_INTERFACE	src/Pluma/uce-dirent.h	176;"	d
+DIRENT_USE_FFBLK	src/Pluma/uce-dirent.h	209;"	d
+DIRENT_WIN32_INTERFACE	src/Pluma/uce-dirent.h	174;"	d
+DLibrary	src/Pluma/DLibrary.cpp	/^DLibrary::DLibrary(void* handle):$/;"	f	class:pluma::DLibrary
+DLibrary	src/Pluma/DLibrary.hpp	/^class DLibrary{$/;"	c	namespace:pluma
+EAGLE_HPP	example/src/plugin/Eagle.hpp	2;"	d
+Eagle	example/src/plugin/Eagle.hpp	/^class Eagle: public Warrior{$/;"	c
+HAVE_DIRECT_H	src/Pluma/uce-dirent.h	115;"	d
+HAVE_DIRENT_H	src/Pluma/uce-dirent.h	110;"	d
+HAVE_DIRENT_H	src/Pluma/uce-dirent.h	119;"	d
+HAVE_DIRENT_H	src/Pluma/uce-dirent.h	123;"	d
+HAVE_DIRENT_H	src/Pluma/uce-dirent.h	125;"	d
+HAVE_DIRENT_H	src/Pluma/uce-dirent.h	127;"	d
+HAVE_DIRENT_H	src/Pluma/uce-dirent.h	129;"	d
+HAVE_DIRENT_H	src/Pluma/uce-dirent.h	131;"	d
+HAVE_SYS_DIR_H	src/Pluma/uce-dirent.h	117;"	d
+Host	include/Pluma/Host.hpp	/^class PLUMA_API Host{$/;"	c	namespace:pluma
+Host	src/Pluma/Host.cpp	/^Host::Host(){$/;"	f	class:pluma::Host
+JAGUAR_HPP	example/src/plugin/Jaguar.hpp	2;"	d
+Jaguar	example/src/plugin/Jaguar.hpp	/^class Jaguar: public Warrior{$/;"	c
+LibMap	include/Pluma/PluginManager.hpp	/^    typedef std::map<std::string,DLibrary*> LibMap;$/;"	t	class:pluma::PluginManager
+MSDOS	src/Pluma/uce-dirent.h	88;"	d
+MSDOS	src/Pluma/uce-dirent.h	90;"	d
+NAME_MAX	src/Pluma/uce-dirent.h	232;"	d
+NAMLEN	src/Pluma/uce-dirent.h	141;"	d
+NAMLEN	src/Pluma/uce-dirent.h	143;"	d
+NAMLEN	src/Pluma/uce-dirent.h	148;"	d
+NAMLEN	src/Pluma/uce-dirent.h	152;"	d
+NAMLEN	src/Pluma/uce-dirent.h	156;"	d
+NAMLEN	src/Pluma/uce-dirent.h	160;"	d
+NAMLEN	src/Pluma/uce-dirent.h	168;"	d
+NAMLEN	src/Pluma/uce-dirent.h	671;"	d
+NOMINMAX	include/Pluma/Config.hpp	53;"	d
+PLUMA_2STRING	include/Pluma/Pluma.hpp	38;"	d
+PLUMA_API	include/Pluma/Config.hpp	106;"	d
+PLUMA_API	include/Pluma/Config.hpp	111;"	d
+PLUMA_API	include/Pluma/Config.hpp	127;"	d
+PLUMA_API	include/Pluma/Config.hpp	134;"	d
+PLUMA_CONFIG_HPP	include/Pluma/Config.hpp	39;"	d
+PLUMA_CONNECTOR	include/Pluma/Connector.hpp	47;"	d
+PLUMA_CONNECTOR	include/Pluma/Connector.hpp	49;"	d
+PLUMA_CONNECTOR	include/Pluma/Connector.hpp	56;"	d
+PLUMA_CONNECTOR	include/Pluma/Connector.hpp	58;"	d
+PLUMA_CONNECTOR	include/Pluma/Connector.hpp	67;"	d
+PLUMA_CONNECTOR	include/Pluma/Connector.hpp	69;"	d
+PLUMA_CONNECTOR	include/Pluma/Connector.hpp	78;"	d
+PLUMA_CONNECTOR	include/Pluma/Connector.hpp	80;"	d
+PLUMA_CONNECTOR_HPP	include/Pluma/Connector.hpp	26;"	d
+PLUMA_DIRECTORY_HPP	src/Pluma/Dir.hpp	26;"	d
+PLUMA_DYNAMIC_LIBRARY_HPP	src/Pluma/DLibrary.hpp	26;"	d
+PLUMA_HOST_HPP	include/Pluma/Host.hpp	26;"	d
+PLUMA_INHERIT_PROVIDER	include/Pluma/Pluma.hpp	81;"	d
+PLUMA_LIB_EXTENSION	include/Pluma/Config.hpp	84;"	d
+PLUMA_LIB_EXTENSION	include/Pluma/Config.hpp	86;"	d
+PLUMA_LIB_EXTENSION	include/Pluma/Config.hpp	88;"	d
+PLUMA_PLUGIN_MANAGER_HPP	include/Pluma/PluginManager.hpp	26;"	d
+PLUMA_PLUMA_HPP	include/Pluma/Pluma.hpp	26;"	d
+PLUMA_PROVIDER_HEADER	include/Pluma/Pluma.hpp	44;"	d
+PLUMA_PROVIDER_HEADER_BEGIN	include/Pluma/Pluma.hpp	52;"	d
+PLUMA_PROVIDER_HEADER_END	include/Pluma/Pluma.hpp	66;"	d
+PLUMA_PROVIDER_HPP	include/Pluma/Provider.hpp	26;"	d
+PLUMA_PROVIDER_SOURCE	include/Pluma/Pluma.hpp	71;"	d
+PLUMA_SYS_FREEBSD	include/Pluma/Config.hpp	69;"	d
+PLUMA_SYS_LINUX	include/Pluma/Config.hpp	59;"	d
+PLUMA_SYS_MACOS	include/Pluma/Config.hpp	64;"	d
+PLUMA_SYS_WINDOWS	include/Pluma/Config.hpp	48;"	d
+PluginManager	include/Pluma/PluginManager.hpp	/^class PLUMA_API PluginManager{$/;"	c	namespace:pluma
+PluginManager	src/Pluma/PluginManager.cpp	/^PluginManager::PluginManager(){$/;"	f	class:pluma::PluginManager
+Pluma	include/Pluma/Pluma.hpp	/^class Pluma: public PluginManager{$/;"	c	namespace:pluma
+Provider	include/Pluma/Provider.hpp	/^class PLUMA_API Provider{$/;"	c	namespace:pluma
+ProviderInfo	include/Pluma/Host.hpp	/^    struct ProviderInfo{$/;"	s	class:pluma::Host
+ProvidersMap	include/Pluma/Host.hpp	/^    typedef std::map<std::string, ProviderInfo > ProvidersMap;$/;"	t	class:pluma::Host
+SIMPLE_WARRIOR_HPP	example/src/host/SimpleWarrior.hpp	2;"	d
+SimpleWarrior	example/src/host/SimpleWarrior.hpp	/^class SimpleWarrior: public Warrior{$/;"	c
+TempProvidersMap	include/Pluma/Host.hpp	/^    typedef std::map<std::string, std::list<Provider*> > TempProvidersMap;$/;"	t	class:pluma::Host
+VOID_CLOSEDIR	src/Pluma/uce-dirent.h	111;"	d
+WARRIOR_HPP	example/src/interface/Warrior.hpp	2;"	d
+WIN32	src/Pluma/uce-dirent.h	95;"	d
+WIN32	src/Pluma/uce-dirent.h	97;"	d
+WIN32	src/Pluma/uce-dirent.h	99;"	d
+WIN32_LEAN_AND_MEAN	include/Pluma/Config.hpp	50;"	d
+Warrior	example/src/interface/Warrior.hpp	/^PLUMA_PROVIDER_HEADER(Warrior);$/;"	v
+Warrior	example/src/interface/Warrior.hpp	/^class Warrior{$/;"	c
+_A_ARCH	src/Pluma/uce-dirent.h	301;"	d
+_A_HIDDEN	src/Pluma/uce-dirent.h	302;"	d
+_A_NORMAL	src/Pluma/uce-dirent.h	303;"	d
+_A_RDONLY	src/Pluma/uce-dirent.h	304;"	d
+_A_SUBDIR	src/Pluma/uce-dirent.h	305;"	d
+_A_SYSTEM	src/Pluma/uce-dirent.h	306;"	d
+_A_VOLID	src/Pluma/uce-dirent.h	307;"	d
+_dos_findfirst	src/Pluma/uce-dirent.h	309;"	d
+_dos_findnext	src/Pluma/uce-dirent.h	308;"	d
+_find_t	src/Pluma/uce-dirent.h	200;"	d
+_getdirname	src/Pluma/uce-dirent.h	/^_getdirname (const struct dirent *dp)$/;"	f
+_initdir	src/Pluma/uce-dirent.h	/^_initdir (DIR *dirp)$/;"	f
+_setdirname	src/Pluma/uce-dirent.h	/^_setdirname (struct DIR *dirp) {$/;"	f
+add	src/Pluma/Host.cpp	/^bool Host::add(Provider* provider){$/;"	f	class:pluma::Host
+addProvider	src/Pluma/PluginManager.cpp	/^bool PluginManager::addProvider(Provider* provider){$/;"	f	class:pluma::PluginManager
+addRequests	include/Pluma/Host.hpp	/^    TempProvidersMap addRequests;   \/\/\/< Temporarily added providers$/;"	m	class:pluma::Host
+cancelAddictions	src/Pluma/Host.cpp	/^void Host::cancelAddictions(){$/;"	f	class:pluma::Host
+clearProviders	src/Pluma/Host.cpp	/^void Host::clearProviders(){$/;"	f	class:pluma::Host
+closedir	src/Pluma/uce-dirent.h	/^closedir (DIR *dirp)$/;"	f
+confirmAddictions	src/Pluma/Host.cpp	/^bool Host::confirmAddictions(){$/;"	f	class:pluma::Host
+connect	example/src/plugin/Connector.cpp	/^bool connect(pluma::Host& host){$/;"	f
+current	src/Pluma/uce-dirent.h	/^    dirent        current;                     \/* current entry *\/$/;"	m	struct:DIR
+d_name	src/Pluma/uce-dirent.h	/^    char d_name[NAME_MAX + 1];$/;"	m	struct:dirent
+data	src/Pluma/uce-dirent.h	/^    WIN32_FIND_DATA data;$/;"	m	struct:dirent
+data	src/Pluma/uce-dirent.h	/^    struct _find_t data;$/;"	m	struct:dirent	typeref:struct:dirent::_find_t
+data	src/Pluma/uce-dirent.h	/^    struct ffblk data;$/;"	m	struct:dirent	typeref:struct:dirent::ffblk
+dir	src/Pluma/Dir.cpp	/^namespace dir{$/;"	n	namespace:pluma	file:
+dir	src/Pluma/Dir.hpp	/^namespace dir{$/;"	n	namespace:pluma
+dirent	src/Pluma/uce-dirent.h	/^  typedef struct dirent {$/;"	s
+dirent	src/Pluma/uce-dirent.h	/^  } dirent;$/;"	t	typeref:struct:dirent
+dirent	src/Pluma/uce-dirent.h	166;"	d
+dirent_filled	src/Pluma/uce-dirent.h	/^    int           dirent_filled;               \/* is current un-processed? *\/$/;"	m	struct:DIR
+dirname	src/Pluma/uce-dirent.h	/^    char          *dirname;                    \/* directory being scanned *\/$/;"	m	struct:DIR
+fnRegisterPlugin	include/Pluma/PluginManager.hpp	/^    typedef bool fnRegisterPlugin(Host&);$/;"	t	class:pluma::PluginManager
+getDescription	example/src/host/SimpleWarrior.hpp	/^    std::string getDescription(){$/;"	f	class:SimpleWarrior
+getDescription	example/src/plugin/Eagle.hpp	/^    std::string getDescription(){$/;"	f	class:Eagle
+getDescription	example/src/plugin/Jaguar.hpp	/^    std::string getDescription(){$/;"	f	class:Jaguar
+getLoadedPlugins	src/Pluma/PluginManager.cpp	/^void PluginManager::getLoadedPlugins(std::vector<const std::string*>& pluginNames) const{$/;"	f	class:pluma::PluginManager
+getLowestVersion	src/Pluma/Host.cpp	/^unsigned int Host::getLowestVersion(const std::string& type) const{$/;"	f	class:pluma::Host
+getPluginName	src/Pluma/PluginManager.cpp	/^std::string PluginManager::getPluginName(const std::string& path){$/;"	f	class:pluma::PluginManager
+getProviders	src/Pluma/Host.cpp	/^const std::list<Provider*>* Host::getProviders(const std::string& type) const{$/;"	f	class:pluma::Host
+getProviders	src/Pluma/PluginManager.cpp	/^const std::list<Provider*>* PluginManager::getProviders(const std::string& type) const{$/;"	f	class:pluma::PluginManager
+getSymbol	src/Pluma/DLibrary.cpp	/^void* DLibrary::getSymbol(const std::string& symbol){$/;"	f	class:pluma::DLibrary
+getVersion	src/Pluma/Host.cpp	/^unsigned int Host::getVersion(const std::string& type) const{$/;"	f	class:pluma::Host
+handle	src/Pluma/DLibrary.hpp	/^    void* handle; \/\/\/< Library handle.$/;"	m	class:pluma::DLibrary
+host	include/Pluma/PluginManager.hpp	/^    Host host;          \/\/\/< Host app proxy, holding all providers$/;"	m	class:pluma::PluginManager
+isCompatible	src/Pluma/Provider.cpp	/^bool Provider::isCompatible(const Host& host) const{$/;"	f	class:pluma::Provider
+isLoaded	src/Pluma/PluginManager.cpp	/^bool PluginManager::isLoaded(const std::string& pluginName) const{$/;"	f	class:pluma::PluginManager
+knownTypes	include/Pluma/Host.hpp	/^    ProvidersMap knownTypes;        \/\/\/< Map of registered types.$/;"	m	class:pluma::Host
+knows	src/Pluma/Host.cpp	/^bool Host::knows(const std::string& type) const{$/;"	f	class:pluma::Host
+libraries	include/Pluma/PluginManager.hpp	/^    LibMap libraries;   \/\/\/< Map containing the loaded libraries$/;"	m	class:pluma::PluginManager
+listFiles	src/Pluma/Dir.cpp	/^void listFiles(std::list<std::string>& list, const std::string& folder, const std::string& extension, bool recursive){$/;"	f	namespace:pluma::dir
+load	src/Pluma/DLibrary.cpp	/^DLibrary* DLibrary::load(const std::string& path){$/;"	f	class:pluma::DLibrary
+load	src/Pluma/PluginManager.cpp	/^bool PluginManager::load(const std::string& folder, const std::string& pluginName){$/;"	f	class:pluma::PluginManager
+load	src/Pluma/PluginManager.cpp	/^bool PluginManager::load(const std::string& path){$/;"	f	class:pluma::PluginManager
+loadFromFolder	src/Pluma/PluginManager.cpp	/^int PluginManager::loadFromFolder(const std::string& folder, bool recursive){$/;"	f	class:pluma::PluginManager
+lowestVersion	include/Pluma/Host.hpp	/^        unsigned int lowestVersion;$/;"	m	struct:pluma::Host::ProviderInfo
+main	example/src/host/Main.cpp	/^int main(){$/;"	f
+opendir	src/Pluma/uce-dirent.h	/^opendir($/;"	f
+pluma	include/Pluma/Host.hpp	/^namespace pluma{$/;"	n
+pluma	include/Pluma/PluginManager.hpp	/^namespace pluma{$/;"	n
+pluma	include/Pluma/Pluma.hpp	/^namespace pluma{$/;"	n
+pluma	include/Pluma/Provider.hpp	/^namespace pluma{$/;"	n
+pluma	src/Pluma/DLibrary.cpp	/^namespace pluma{$/;"	n	file:
+pluma	src/Pluma/DLibrary.hpp	/^namespace pluma{$/;"	n
+pluma	src/Pluma/Dir.cpp	/^namespace pluma{$/;"	n	file:
+pluma	src/Pluma/Dir.hpp	/^namespace pluma{$/;"	n
+pluma	src/Pluma/Host.cpp	/^namespace pluma{$/;"	n	file:
+pluma	src/Pluma/PluginManager.cpp	/^namespace pluma{$/;"	n	file:
+pluma	src/Pluma/Provider.cpp	/^namespace pluma{$/;"	n	file:
+providers	include/Pluma/Host.hpp	/^        std::list<Provider*> providers;$/;"	m	struct:pluma::Host::ProviderInfo
+readdir	src/Pluma/uce-dirent.h	/^readdir (DIR *dirp)$/;"	f
+registerProvider	src/Pluma/Host.cpp	/^bool Host::registerProvider(Provider* provider){$/;"	f	class:pluma::Host
+registerType	src/Pluma/Host.cpp	/^void Host::registerType(const std::string& type, unsigned int version, unsigned int lowestVersion){$/;"	f	class:pluma::Host
+registerType	src/Pluma/PluginManager.cpp	/^void PluginManager::registerType(const std::string& type, unsigned int version, unsigned int lowestVersion){$/;"	f	class:pluma::PluginManager
+resolvePathExtension	src/Pluma/PluginManager.cpp	/^std::string PluginManager::resolvePathExtension(const std::string& path){$/;"	f	class:pluma::PluginManager
+rewinddir	src/Pluma/uce-dirent.h	/^rewinddir (DIR *dirp)$/;"	f
+search_handle	src/Pluma/uce-dirent.h	/^    HANDLE        search_handle;$/;"	m	struct:DIR
+unload	src/Pluma/PluginManager.cpp	/^bool PluginManager::unload(const std::string& pluginName){$/;"	f	class:pluma::PluginManager
+unloadAll	src/Pluma/PluginManager.cpp	/^void PluginManager::unloadAll(){$/;"	f	class:pluma::PluginManager
+validateProvider	src/Pluma/Host.cpp	/^bool Host::validateProvider(Provider* provider) const{$/;"	f	class:pluma::Host
+version	include/Pluma/Host.hpp	/^        unsigned int version;$/;"	m	struct:pluma::Host::ProviderInfo
+~DLibrary	src/Pluma/DLibrary.cpp	/^DLibrary::~DLibrary(){$/;"	f	class:pluma::DLibrary
+~Host	src/Pluma/Host.cpp	/^Host::~Host(){$/;"	f	class:pluma::Host
+~PluginManager	src/Pluma/PluginManager.cpp	/^PluginManager::~PluginManager(){$/;"	f	class:pluma::PluginManager
+~Provider	src/Pluma/Provider.cpp	/^Provider::~Provider(){$/;"	f	class:pluma::Provider
